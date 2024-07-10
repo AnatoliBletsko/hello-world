@@ -32,7 +32,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, Happy Learning after commit </h1>
+   <h1> Thank you, Happy Learning after commit
+		And another one!</h1>
 
   
 </form>
